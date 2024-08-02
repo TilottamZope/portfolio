@@ -69,6 +69,8 @@ function Experiance() {
           ))}
         </div>
       </div>
+      <br />
+      <hr />
     </div>
   );
 }
